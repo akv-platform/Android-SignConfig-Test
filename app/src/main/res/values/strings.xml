@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-SignConfig-Test</string>
+    <string name="welcome">Hi! This is the main page</string>
+    <string name="second">Hi! This is the second page</string>
+</resources>
